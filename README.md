@@ -4,7 +4,7 @@ Lyrics Search is an application that searches for song lyrics through artist nam
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/LyricsSearch/)
 
 ## Built Using
 
